@@ -122,6 +122,8 @@
 
 Не так давно grunticon стал доступен [в виде сайта Grumpicon][11], который представляет собой драг-н-дроп интерфейс к утилите для тех, кто не готов вникать в тонкости настройки задач и работе с командной строкой.
 
+![Cкриншот][Сайт www.grumpicon.com]
+
 [1]: http://www.artlebedev.ru/kovodstvo/sections/71/
 [2]: http://raphaeljs.com/
 [3]: http://caniuse.com/#search=SVG
@@ -133,3 +135,5 @@
 [9]: https://github.com/filamentgroup/grunticon/blob/master/Gruntfile.js
 [10]: https://github.com/zigotica/grunticon/
 [11]: http://www.grumpicon.com/
+
+[Сайт www.grumpicon.com]: img/grumpicon.com.png "Сайт www.grumpicon.com"
